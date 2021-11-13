@@ -5,6 +5,10 @@ Ennen käyttäjätunnuksen syöttämistä varmista, että kyseinen on todella ai
 ## Käyttöehdot
 Käytät sivustoa omalla vastuullasi.
 
+## Hyödylliset
+* https://yle.fi/aihe/digitreenit
+* https://www.jamk.fi/fi/Tutkimus-ja-kehitys/projektit/CYBERDI/tietopankki/
+
 ### Sanomalehdet ja uutiset
 
 * Iltasanomat https://www.is.fi 
@@ -15,6 +19,14 @@ Käytät sivustoa omalla vastuullasi.
 * Talouselämä https://www.talouselama.fi/ 
 * Keskisuomalainen https://www.ksml.fi 
 * Yle https://www.yle.fi/uutiset
+* Expressen https://www.expressen.se/
+* Dagens Industri https://www.di.se/
+* Aftonbladet https://www.aftonbladet.se/
+
+### TV
+* YLE Areena https://areena.yle.fi/
+* Ruutu https://ruutu.fi/
+* MTV https://www.katsomo.fi/
 
 ### Aikakausilehdet
 
@@ -92,6 +104,18 @@ Muillakin kaupungeilla ja alueilla omat vastaavat palvelut, joihin vaaditaan ko.
 * Säästöpankki https://www.saastopankki.fi
 * Oma SP https://www.omasp.fi
 * S-Pankki https://www.s-pankki.fi/
+
+### Viranomaispalvelut
+* Verottaja https://vero.fi
+* Suomi.fi https://www.suomi.fi
+* Kela https://kela.fi/
+* Jyväskylän kaupunki https://www.jyvaskyla.fi/
+* 
+
+### Verkon sana- ja tietokirjat
+* Wikipedia https://fi.wikipedia.org/wiki/Wikipedia:Etusivu
+* Sanakirja.org https://www.sanakirja.org
+* Googlen kääntäjä (Google Translate) https://translate.google.com/
 
 ### Yhteystiedot
 Sähköpostitse: hollitupa@pm.me
