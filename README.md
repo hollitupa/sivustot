@@ -7,8 +7,14 @@ Käytät sivustoa omalla vastuullasi.
 
 ### Sanomalehdet ja uutiset
 
-| Iltasanomat https://www.is.fi | Iltalehti https://www.iltalehti.fi | Helsingin sanomat https://www.hs.fi | Turun sanomat https://www.ts.fi/ |
-| Kauppalehti https://www.kauppalehti.fi | Talouselämä https://www.talouselama.fi/ | Keskisuomalainen https://www.ksml.fi | Yle https://www.yle.fi/uutiset |
+* Iltasanomat https://www.is.fi 
+* Iltalehti https://www.iltalehti.fi
+* Helsingin sanomat https://www.hs.fi 
+* Turun sanomat https://www.ts.fi/
+* Kauppalehti https://www.kauppalehti.fi 
+* Talouselämä https://www.talouselama.fi/ 
+* Keskisuomalainen https://www.ksml.fi 
+* Yle https://www.yle.fi/uutiset |
 
 ### Aikakausilehdet
 
