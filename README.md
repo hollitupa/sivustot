@@ -34,7 +34,7 @@ Alla olevat lehdet ovat saatavilla Jyväskylän seudulla [https://keskikirjastot
 
 Muillakin kaupungeilla ja alueilla on vastaavat palvelut, joihin vaaditaan ko. alueen kirjastokortti.
 
-Tilanne elää, josta johtuen palvelussa saattaa olla ao. lehtien lisäksi muitakin lehtiä, tai jotkin ao. lehdistä on poistunut palvelusta.
+Tilanne elää, josta johtuen palvelussa saattaa olla ao. lehtien lisäksi muitakin lehtiä, tai jotkin ao. lehdistä on poistettu palvelusta.
 
 * Suomen Kuvalehti
 * Maaseudun tulevaisuus
@@ -112,8 +112,7 @@ Tilanne elää, josta johtuen palvelussa saattaa olla ao. lehtien lisäksi muita
 * Verottaja [https://vero.fi](https://vero.fi)
 * Suomi.fi [https://www.suomi.fi](https://www.suomi.fi)
 * Kela [https://kela.fi/](https://kela.fi/)
-* Jyväskylän kaupunki [https://www.jyvaskyla.fi/](https://www.jyvaskyla.fi/)
-* 
+* Jyväskylän kaupunki [https://www.jyvaskyla.fi/](https://www.jyvaskyla.fi/) 
 
 ### Verkon sana- ja tietokirjat
 * Wikipedia [https://fi.wikipedia.org/wiki/Wikipedia:Etusivu](https://fi.wikipedia.org/wiki/Wikipedia:Etusivu)
