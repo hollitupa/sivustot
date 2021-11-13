@@ -27,6 +27,7 @@ Käytät sivustoa omalla vastuullasi.
 * YLE Areena [https://areena.yle.fi/](https://areena.yle.fi/)
 * Ruutu [https://ruutu.fi/](https://ruutu.fi/)
 * MTV [https://www.katsomo.fi/](https://www.katsomo.fi/)
+* Teksti-TV [https://yle.fi/aihe/tekstitv](https://yle.fi/aihe/tekstitv)
 
 ### Aikakausilehdet
 
