@@ -108,16 +108,20 @@ Tilanne elää, josta johtuen palvelussa saattaa olla ao. lehtien lisäksi muita
 * Oma SP [https://www.omasp.fi](https://www.omasp.fi)
 * S-Pankki [https://www.s-pankki.fi/](https://www.s-pankki.fi/)
 
-### Viranomaispalvelut
+### Viranomaispalvelut ja hyödylliset
 * Verottaja [https://vero.fi](https://vero.fi)
 * Suomi.fi [https://www.suomi.fi](https://www.suomi.fi)
 * Kela [https://kela.fi/](https://kela.fi/)
 * Jyväskylän kaupunki [https://www.jyvaskyla.fi/](https://www.jyvaskyla.fi/) 
+* Omaposti [https://oma.posti.fi/](https://oma.posti.fi/)
 
 ### Verkon sana- ja tietokirjat
 * Wikipedia [https://fi.wikipedia.org/wiki/Wikipedia:Etusivu](https://fi.wikipedia.org/wiki/Wikipedia:Etusivu)
 * Sanakirja.org [https://www.sanakirja.org](https://www.sanakirja.org)
 * Googlen kääntäjä (Google Translate) [https://translate.google.com/](https://translate.google.com/)
+
+### Hyväntekeväisyys
+* Veikkaus [https://www.veikkaus.fi](https://www.veikkaus.fi)
 
 ### Yhteystiedot
 Sähköpostitse: hollitupa@pm.me
