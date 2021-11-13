@@ -3,7 +3,7 @@
 Ennen käyttäjätunnuksen syöttämistä varmista, että kyseinen on todella aito palvelu, eikä esimerkiksi valesivusto. Voi olla mahdollista, että sivusto on kaapattu, jolloin linkit on muutettu rikollisten toimesta huijaussivustolle, ja sinulle voi koitua isoja harmeja. 
 
 ## Käyttöehdot
-Käytöt sivustoa omalla vastuullasi.
+Käytät sivustoa omalla vastuullasi.
 
 ### Sanomalehdet ja uutiset
 
