@@ -14,7 +14,7 @@ Käytät sivustoa omalla vastuullasi.
 * Kauppalehti https://www.kauppalehti.fi 
 * Talouselämä https://www.talouselama.fi/ 
 * Keskisuomalainen https://www.ksml.fi 
-* Yle https://www.yle.fi/uutiset |
+* Yle https://www.yle.fi/uutiset
 
 ### Aikakausilehdet
 
