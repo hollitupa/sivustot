@@ -6,7 +6,7 @@ Ennen käyttäjätunnuksen syöttämistä varmista, että kyseinen on todella ai
 Käytät sivustoa omalla vastuullasi.
 
 ## Hyödylliset
-* (https://yle.fi/aihe/digitreenit)[https://yle.fi/aihe/digitreenit]
+* [https://yle.fi/aihe/digitreenit](https://yle.fi/aihe/digitreenit)
 * https://www.jamk.fi/fi/Tutkimus-ja-kehitys/projektit/CYBERDI/tietopankki/
 
 ### Sanomalehdet ja uutiset
