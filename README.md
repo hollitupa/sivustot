@@ -104,7 +104,6 @@ Tilanne elää, josta johtuen palvelussa saattaa olla ao. lehtien lisäksi muita
 * Viinilehti
 * V8
 
-
 ### Pankkipalvelut
 * Osuuspankki [https://www.op.fi](https://www.op.fi)
 * Nordea [https://www.nordea.fi](https://www.nordea.fi)
