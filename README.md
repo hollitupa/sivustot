@@ -1,6 +1,10 @@
 ## Linkkilistaus
 
-Ennen käyttäjätunnuksen syöttämistä varmista, että kyseinen on todella aito palvelu, eikä esimerkiksi valesivusto. Voi olla mahdollista, että sivusto on kaapattu, jolloin linkit on muutettu rikollisten toimesta huijaussivustolle, ja sinulle voi koitua isoja harmeja. 
+Alla on muutamia linkkejä yleisiin nettisivustoihin ja -palveluihin.
+
+Ennen käyttäjätunnuksen syöttämistä mihinkään palveluun varmista, että kyseinen on todella aito palvelu, eikä esimerkiksi valesivusto. Kyberturvallisuuskeskuksen sivulta löytyy infoa "Näin suojaudut nettihuijaukselta" [https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/ohjeet-ja-oppaat/nain-suojaudut-nettihuijaukselta](https://www.kyberturvallisuuskeskus.fi/fi/ajankohtaista/ohjeet-ja-oppaat/nain-suojaudut-nettihuijaukselta). Samoin osuuspankilla on infosivu [https://www.op.fi/turvallinen-asiointi/verkkorikollisuus/huijaussivustot](https://www.op.fi/turvallinen-asiointi/verkkorikollisuus/huijaussivustot). Mainittuihin sivustoihin kannattaa tutustua.
+
+Kun olet varmistanut, että sivusto on oikea, talleta se nettiselaimeesi kirjanmerkiksi, ja lopeta tämän sivun käyttö.
 
 ## Käyttöehdot
 Käytät sivustoa omalla vastuullasi.
